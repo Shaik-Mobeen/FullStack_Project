@@ -1,0 +1,54 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    },
+    {
+      "id": "eqwsfr",
+      "name": "rweg",
+      "password": "4res",
+      "email": "4rt4ter",
+      "phone": "r43e",
+      "country": "",
+      "Address": "4t3rg"
+    },
+    {
+      "id": "erty",
+      "name": "WRET",
+      "password": "eqSRTGYH",
+      "email": "QWERTT",
+      "phone": "RETYU",
+      "country": "",
+      "Address": "ERTYHJHU"
+    },
+    {
+      "id": "SHAIK",
+      "name": "HELLO",
+      "password": "1234",
+      "email": "sgauj@gmail.login",
+      "phone": "1234567890",
+      "country": "",
+      "Address": "hello adhd"
+    },
+    {
+      "id": "iu9ippp",
+      "name": "jjiuiooipo[",
+      "password": "uuiyuiy",
+      "email": "jiufcyjbj@gmail.com",
+      "phone": "15645+78846",
+      "country": "",
+      "Address": ";yhuftutcufuftyu"
+    }
+  ],
+  "employee": [
+    {
+      "id": 2,
+      "name": "sai",
+      "email": "sai@emao.com",
+      "phone": "82545",
+      "active": true
+    }
+  ]
+}
